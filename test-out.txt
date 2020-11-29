@@ -1,0 +1,10 @@
+The method is *
+
+The first very long integer is 1000
+
+The second very long integer is 123456789
+
+The current very_long_int is: 
+000000000
+
+
